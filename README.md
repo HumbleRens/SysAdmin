@@ -62,9 +62,7 @@ Notes:
 - Tested on Windows 10 and Windows 11
 - Must have PSExcel module installed
 - Must run as administrator to successfully get everything, if certain things do not exist, the .xlsx file will be empty
-
-What does this do? 
-Attempts to get and export all of this information into Excel individually, saves it as the name and date it was ran: 
+- What does this do? Attempts to get and export all of this information into Excel individually, saves it as the name and date it was ran: 
 
 -	Process: Retrieves information about running processes on the local computer.
 -	Services: Retrieves information about services on the local computer.
