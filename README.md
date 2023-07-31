@@ -90,7 +90,7 @@ Notes:
 - UDP Endpoint Connections: Network protocol that is commonly used for real time applications such as video conferencing, streaming and gaming.
 - WindowsDriver: List all currently installed Windows drivers.
 - Roaming Hashes: Receives MD5 and SHA256 file hashes for files in the Roaming folder.
-- 
+  
 # EVTX to MITRE Att@ck Filter
 -.PS1 Filter to scan common IoC within Windows Event logs. Orginal project: https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
 - Event IDs filtered: $eventIDs = @(1151, 1116, 1149, 4699, 4698, 46, 984, 699, 7000, 7009, 4728, 29, 4756, 57, 4732, 33, 4742, 4738, 4723, 4724, 47, 284, 756, 4722, 4741, 4743, 4726, 4720, 4781, 15457, 18457, 19, 20, 21, 4622, 150, 770, 4673, 4717, 4704, 7045, 4697, 6416, 808, 354, 321, 104, 1102, 4616, 4964, 60, 5137, 5141, 5143, 5124, 5136, 5007, 4719, 4739, 4908, 2003, 4950, 2004, 4663, 325, 327, 4794, 472, 847, 564, 732, 4771, 33205, 70, 5382, 4768, 6004, 4625, 131, 4799, 4662, 600, 4769, 4661, 4825, 4648, 5140, 5145, 5142, 4674, 4656, 10, 4624, 13, 800, 4103, 4104, 4688, 11)
