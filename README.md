@@ -53,11 +53,7 @@ You will need to replace the $computers variable with the names of the remote co
 # OSBuildInfo2023 
 Remotely retrieves the OS version, build number, hotfixid installed date filtered in 2023.
 
-# Incident Response Information Dump
-The purpose of this script is to start you in the right direction to assist in detecting possible malicious activity on a local Windows 10/11 computer with quickly grabbing and dumping information to be observed. Some small-medium organizations do not have appropriate SIEM/SOAR/IR/Tools/Training in place.
-
-I Highly recommend running THOR Lite + LOKI first for IoC
-
+#Information Dump
 Notes:
 - Tested on Windows 10 and Windows 11
 - Must have PSExcel module installed
